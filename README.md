@@ -18,6 +18,8 @@ This project is a full-stack web application designed to manage Jira tickets acr
 ---
 
 ## 🧠 Architecture Overview
+```
+Architecture Diagram (Text-Based)
 
 [Frontend - React.js]
     |
@@ -45,3 +47,4 @@ This project is a full-stack web application designed to manage Jira tickets acr
           |-- tickets
           |-- agents
           |-- shifts
+```
